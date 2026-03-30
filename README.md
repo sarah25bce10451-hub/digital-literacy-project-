@@ -30,21 +30,21 @@ This project was completed as part of the Digital Literacy course, where I took 
 ### 🔹 Task 1 – Infographic
 
 Created a digital literacy awareness infographic using Canva.
-📂 Folder: [Task 1 Folder](./task-1-presentation/)
+📂 Folder: [Task 1 Folder](task-1-presentation)
 
 ---
 
 ### 🔹 Task 2 – Digital Portfolio
 
 Set up professional profiles on platforms like GitHub and LinkedIn.
-📂 Folder: `task-2-portfolio/`
+📂 Folder: [Task 2 Folder](task-2-portfolio)
 
 ---
 
 ### 🔹 Task 3 – Platforms
 
 Completed a coding challenge and created a Google Form quiz.
-📂 Folder: `task-3-platforms/`
+📂 Folder: [Task 3 Folder](task-3-platforms)
 🔗 Google Form Link: https://forms.gle/M1Z5L4qrUx4p5CaZ9
 
 ---
@@ -52,14 +52,14 @@ Completed a coding challenge and created a Google Form quiz.
 ### 🔹 Task 4 – Email Etiquette
 
 Drafted professional emails and created a social media checklist.
-📂 Folder: `task-4-email-etiquette/`
+📂 Folder: [Task 4 Folder](task-4-email-etiquette)
 
 ---
 
 ### 🔹 Task 5 – Cybercrime Awareness
 
 Created a case study and prevention checklist.
-📂 Folder: `task-5-cybercrime/`
+📂 Folder: [Task 5 Folder](task-5-cybercrime)
 
 ---
 
